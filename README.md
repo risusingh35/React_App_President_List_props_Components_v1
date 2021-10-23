@@ -1,2 +1,2 @@
-# React_App_President_List_props_Components_v1
+# React_App_President_List_props_Components
 Created with CodeSandbox
